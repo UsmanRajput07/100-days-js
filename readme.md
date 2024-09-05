@@ -11,6 +11,7 @@ Share my progress with the developer community.
 Progress:
 Day 1: write a function that take a string as input & return the longest word in the string
 Day 2: genterate a hash tag in start from a given string and capital the first letter of each word in the string
+Day 3
 About
 🚀 100 Days, 100 JS Problems: A daily journey of solving JavaScript problems to sharpen my coding skills. Follow along as I tackle a new challenge each day, sharing solutions, techniques, and insights. Perfect for anyone looking to strengthen their JS knowledge!
 
