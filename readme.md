@@ -12,6 +12,7 @@ Progress:
 Day 1: write a function that take a string as input & return the longest word in the string
 Day 2: genterate a hash tag in start from a given string and capital the first letter of each word in the string
 Day 3: create a fuction that takes a two parameter the fist one is string the second is character , we are find the total character count in a given string
+Day 4: create a function call checktriangle that takes 3 parameters
 About
 🚀 100 Days, 100 JS Problems: A daily journey of solving JavaScript problems to sharpen my coding skills. Follow along as I tackle a new challenge each day, sharing solutions, techniques, and insights. Perfect for anyone looking to strengthen their JS knowledge!
 
