@@ -14,6 +14,10 @@ Day 2: genterate a hash tag in start from a given string and capital the first l
 Day 3: create a fuction that takes a two parameter the fist one is string the second is character , we are find the total character count in a given string
 Day 4: create a function call checktriangle that takes 3 parameters
 Day 5: reate a function to sort the given array to ascending order
+Day 6: Write a function to determine the weather a given string is a palindrome or not,
+palindrome is word , phase , number or other sequence of characters that reads the same backward as forward.
+ignore spaces , punctuation and capitalization
+
 About
 🚀 100 Days, 100 JS Problems: A daily journey of solving JavaScript problems to sharpen my coding skills. Follow along as I tackle a new challenge each day, sharing solutions, techniques, and insights. Perfect for anyone looking to strengthen their JS knowledge!
 
