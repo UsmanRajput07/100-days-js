@@ -17,6 +17,7 @@ Day 5: reate a function to sort the given array to ascending order
 Day 6: Write a function to determine the weather a given string is a palindrome or not,
 palindrome is word , phase , number or other sequence of characters that reads the same backward as forward.
 ignore spaces , punctuation and capitalization
+Day 7: write a function findmax number in given array
 
 About
 🚀 100 Days, 100 JS Problems: A daily journey of solving JavaScript problems to sharpen my coding skills. Follow along as I tackle a new challenge each day, sharing solutions, techniques, and insights. Perfect for anyone looking to strengthen their JS knowledge!
