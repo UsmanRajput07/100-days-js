@@ -9,7 +9,7 @@
     - the input string can contain multiple words separated by spaces
 
     note:
-    - if the input is an empty or conatins ony whitespace return false
+    - if the input is an empty or conatins only whitespace return false
     - the fuction sholud ignore leading and trailing whitespaces
 */
 const findLongest = (str) => {
@@ -17,8 +17,8 @@ const findLongest = (str) => {
   else
     return str
       .trim()
-      .split(" ")
+      .split(' ')
       .sort((a, b) => b.length - a.length)[0];
 };
 
-console.log(findLongest("The quickly brown fox jumped over the lazy dog"));
+console.log(findLongest('The quickly brown fox jumped over the lazy dog'));

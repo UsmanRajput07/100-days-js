@@ -2,7 +2,6 @@
 
     challenge 02
      write a function that genterate a hash tag in start from a given string and capital the first letter of each word in the string
-
     constraint:
      - input must be a string
      - if the input is an empty or conatins only whitespace return false
