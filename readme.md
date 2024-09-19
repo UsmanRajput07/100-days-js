@@ -18,7 +18,8 @@ Day 6: Write a function to determine the weather a given string is a palindrome 
 palindrome is word , phase , number or other sequence of characters that reads the same backward as forward.
 ignore spaces , punctuation and capitalization
 Day 7: write a function findmax number in given array
-Day 7: Write a function to find the factorial of a number
+Day 8: Write a function to find the factorial of a number
+Day 9: Write a function to find the average of an array of numbers and return the average
 
 About
 🚀 100 Days, 100 JS Problems: A daily journey of solving JavaScript problems to sharpen my coding skills. Follow along as I tackle a new challenge each day, sharing solutions, techniques, and insights. Perfect for anyone looking to strengthen their JS knowledge!
